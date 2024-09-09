@@ -1,4 +1,4 @@
-# Git and GitHub learngni resources
+# Git and GitHub learning resources
 There are a lot of helpful Git and GitHub resources available.
 
 ## In this article
