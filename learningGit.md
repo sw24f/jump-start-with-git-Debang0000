@@ -43,3 +43,10 @@ GitHub offers in-person classes taught by our highly-experienced educators. [Con
 
 ## Community
 You can connect with developers around the world to ask and answer questions, learn, and interact directly with GitHub staff. To get the conversation started, see ["GitHub Community Support."](https://github.community/)
+
+## Personal Notes
+
+Learning how to use Git and GitHub. Here's what I've learned so far:
+
+- Always create informative commit messages.
+- Markdown is an form that easily turns plain texts into visually clear and organized page.
