@@ -1,2 +1,2 @@
-Random things here
-hgsgdlkglaighlagfadfasdfkliudystarwestjxzhzd
+Classnotes:
+Nothing yet.
