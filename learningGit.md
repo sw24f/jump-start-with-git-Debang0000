@@ -50,3 +50,6 @@ Learning how to use Git and GitHub. Here's what I've learned so far:
 
 - Always create informative commit messages.
 - Markdown is an form that easily turns plain texts into visually clear and organized page.
+
+I'm becoming familiar with Git.
+
