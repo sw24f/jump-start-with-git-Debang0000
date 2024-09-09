@@ -64,8 +64,7 @@ I'm becoming familiar with Git.
     1. Clone the repo to an appropriate folder on your computer.
     1. On your computer, add a file called `learningGit.md` to your
        repo; use Markdown syntax to fill it with the text of the
-       [documentation on Git/GitHub
-		resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources).
+       [documentation on Git/GitHub resources](https://docs.github.com/en/get-started/quickstart/git-and-github-learning-resources).
     1. Play with `git commit` (save): add some a new section 
     `Personal	Notes` to describe your own learning
     experience. Experiment with commits such as:
